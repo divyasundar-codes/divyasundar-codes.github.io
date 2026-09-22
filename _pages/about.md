@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Divya Sundar is an [IRiSS predoctoral fellow] (https://iriss.stanford.edu/predoc) in Stanford's Department of Psychology, working with Tobias Gerstenberg in the [Causality in Cognition lab] (https://cicl.stanford.edu/). She graduated with highest honors from UC Berkeley in 2026, earning degrees in computer science and cognitive science with a minor in data science.
+Divya Sundar is an [IRiSS predoctoral fellow](https://iriss.stanford.edu/predoc/) in Stanford's Department of Psychology, working with Tobias Gerstenberg in the [Causality in Cognition lab](https://cicl.stanford.edu/). She graduated with highest honors from UC Berkeley in 2026, earning degrees in computer science and cognitive science with a minor in data science.
 
 She is interested in building computational models of social and moral cognition and using these insights to improve human-AI collaboration. Outside the lab, she enjoys reading mystery and sci-fi novels, playing indie video games, and crocheting.
