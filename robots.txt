@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://divyasundar-codes.github.io/al-folio/sitemap.xml
+Sitemap: https://divyasundar-codes.github.io/sitemap.xml
