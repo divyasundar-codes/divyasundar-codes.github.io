@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Your favorite cognitive scientist 🧠✨
+subtitle: Cognitive scientist in the making 🧠✨
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Divya Sundar is an [IRiSS predoctoral fellow](https://iriss.stanford.edu/predoc/) at Stanford 🌲, working with Tobias Gerstenberg in the [Causality in Cognition lab](https://cicl.stanford.edu/). She graduated with highest honors from UC Berkeley 🐻 in 2026, earning degrees in computer science and cognitive science with a minor in data science.
+I am an [IRiSS predoctoral fellow](https://iriss.stanford.edu/predoc/) at Stanford 🌲, working with Tobias Gerstenberg in the [Causality in Cognition lab](https://cicl.stanford.edu/). I graduated with highest honors from UC Berkeley 🐻 in 2026, earning degrees in computer science and cognitive science with a minor in data science.
 
-She is interested in building computational models of social and moral cognition and using these insights to improve human-AI collaboration. Outside the lab, she enjoys reading mystery and sci-fi novels, playing indie video games, and crocheting.
+I am interested in building computational models of social and moral cognition and using these insights to improve human-AI collaboration. Outside the lab, I enjoy reading mystery and sci-fi novels 📚, playing indie video games 🎮, and crocheting 🧶. Feel free to reach out!
